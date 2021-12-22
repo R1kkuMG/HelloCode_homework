@@ -1,0 +1,15 @@
+/Users/maggie/Desktop/C#/C# HelloCode/task31/bin/Debug/net6.0/task31
+/Users/maggie/Desktop/C#/C# HelloCode/task31/bin/Debug/net6.0/task31.deps.json
+/Users/maggie/Desktop/C#/C# HelloCode/task31/bin/Debug/net6.0/task31.runtimeconfig.json
+/Users/maggie/Desktop/C#/C# HelloCode/task31/bin/Debug/net6.0/task31.dll
+/Users/maggie/Desktop/C#/C# HelloCode/task31/bin/Debug/net6.0/ref/task31.dll
+/Users/maggie/Desktop/C#/C# HelloCode/task31/bin/Debug/net6.0/task31.pdb
+/Users/maggie/Desktop/C#/C# HelloCode/task31/obj/Debug/net6.0/task31.csproj.AssemblyReference.cache
+/Users/maggie/Desktop/C#/C# HelloCode/task31/obj/Debug/net6.0/task31.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maggie/Desktop/C#/C# HelloCode/task31/obj/Debug/net6.0/task31.AssemblyInfoInputs.cache
+/Users/maggie/Desktop/C#/C# HelloCode/task31/obj/Debug/net6.0/task31.AssemblyInfo.cs
+/Users/maggie/Desktop/C#/C# HelloCode/task31/obj/Debug/net6.0/task31.csproj.CoreCompileInputs.cache
+/Users/maggie/Desktop/C#/C# HelloCode/task31/obj/Debug/net6.0/task31.dll
+/Users/maggie/Desktop/C#/C# HelloCode/task31/obj/Debug/net6.0/ref/task31.dll
+/Users/maggie/Desktop/C#/C# HelloCode/task31/obj/Debug/net6.0/task31.pdb
+/Users/maggie/Desktop/C#/C# HelloCode/task31/obj/Debug/net6.0/task31.genruntimeconfig.cache
