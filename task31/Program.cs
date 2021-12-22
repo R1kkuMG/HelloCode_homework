@@ -8,8 +8,7 @@ int[] array = {4, 6, 9, 23, 56, 78, 2 ,8};
     int index = 0;
     while (index < count)
     {
-        Console.WriteLine(array[index]);
+        Console.Write(" " + array[index] + " ");
         index++;
     }
-
 }
