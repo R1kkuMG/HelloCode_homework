@@ -1,0 +1,15 @@
+/Users/maggie/Desktop/C#/семинар 1/HelloCode-1/task17/obj/Debug/net6.0/task17.csproj.AssemblyReference.cache
+/Users/maggie/Desktop/C#/семинар 1/HelloCode-1/task17/obj/Debug/net6.0/task17.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maggie/Desktop/C#/семинар 1/HelloCode-1/task17/obj/Debug/net6.0/task17.AssemblyInfoInputs.cache
+/Users/maggie/Desktop/C#/семинар 1/HelloCode-1/task17/obj/Debug/net6.0/task17.AssemblyInfo.cs
+/Users/maggie/Desktop/C#/семинар 1/HelloCode-1/task17/obj/Debug/net6.0/task17.csproj.CoreCompileInputs.cache
+/Users/maggie/Desktop/C#/семинар 1/HelloCode-1/task17/bin/Debug/net6.0/task17
+/Users/maggie/Desktop/C#/семинар 1/HelloCode-1/task17/bin/Debug/net6.0/task17.deps.json
+/Users/maggie/Desktop/C#/семинар 1/HelloCode-1/task17/bin/Debug/net6.0/task17.runtimeconfig.json
+/Users/maggie/Desktop/C#/семинар 1/HelloCode-1/task17/bin/Debug/net6.0/task17.dll
+/Users/maggie/Desktop/C#/семинар 1/HelloCode-1/task17/bin/Debug/net6.0/ref/task17.dll
+/Users/maggie/Desktop/C#/семинар 1/HelloCode-1/task17/bin/Debug/net6.0/task17.pdb
+/Users/maggie/Desktop/C#/семинар 1/HelloCode-1/task17/obj/Debug/net6.0/task17.dll
+/Users/maggie/Desktop/C#/семинар 1/HelloCode-1/task17/obj/Debug/net6.0/ref/task17.dll
+/Users/maggie/Desktop/C#/семинар 1/HelloCode-1/task17/obj/Debug/net6.0/task17.pdb
+/Users/maggie/Desktop/C#/семинар 1/HelloCode-1/task17/obj/Debug/net6.0/task17.genruntimeconfig.cache

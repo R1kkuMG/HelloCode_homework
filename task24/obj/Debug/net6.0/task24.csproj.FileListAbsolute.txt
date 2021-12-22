@@ -1,0 +1,15 @@
+/Users/maggie/Desktop/C#/семинар 1/HelloCode-1/task24/bin/Debug/net6.0/task24
+/Users/maggie/Desktop/C#/семинар 1/HelloCode-1/task24/bin/Debug/net6.0/task24.deps.json
+/Users/maggie/Desktop/C#/семинар 1/HelloCode-1/task24/bin/Debug/net6.0/task24.runtimeconfig.json
+/Users/maggie/Desktop/C#/семинар 1/HelloCode-1/task24/bin/Debug/net6.0/task24.dll
+/Users/maggie/Desktop/C#/семинар 1/HelloCode-1/task24/bin/Debug/net6.0/ref/task24.dll
+/Users/maggie/Desktop/C#/семинар 1/HelloCode-1/task24/bin/Debug/net6.0/task24.pdb
+/Users/maggie/Desktop/C#/семинар 1/HelloCode-1/task24/obj/Debug/net6.0/task24.csproj.AssemblyReference.cache
+/Users/maggie/Desktop/C#/семинар 1/HelloCode-1/task24/obj/Debug/net6.0/task24.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maggie/Desktop/C#/семинар 1/HelloCode-1/task24/obj/Debug/net6.0/task24.AssemblyInfoInputs.cache
+/Users/maggie/Desktop/C#/семинар 1/HelloCode-1/task24/obj/Debug/net6.0/task24.AssemblyInfo.cs
+/Users/maggie/Desktop/C#/семинар 1/HelloCode-1/task24/obj/Debug/net6.0/task24.csproj.CoreCompileInputs.cache
+/Users/maggie/Desktop/C#/семинар 1/HelloCode-1/task24/obj/Debug/net6.0/task24.dll
+/Users/maggie/Desktop/C#/семинар 1/HelloCode-1/task24/obj/Debug/net6.0/ref/task24.dll
+/Users/maggie/Desktop/C#/семинар 1/HelloCode-1/task24/obj/Debug/net6.0/task24.pdb
+/Users/maggie/Desktop/C#/семинар 1/HelloCode-1/task24/obj/Debug/net6.0/task24.genruntimeconfig.cache
