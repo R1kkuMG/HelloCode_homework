@@ -1,0 +1,15 @@
+/Users/maggie/Desktop/C#/C# HelloCode/task45/obj/Debug/net6.0/task45.csproj.AssemblyReference.cache
+/Users/maggie/Desktop/C#/C# HelloCode/task45/obj/Debug/net6.0/task45.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maggie/Desktop/C#/C# HelloCode/task45/obj/Debug/net6.0/task45.AssemblyInfoInputs.cache
+/Users/maggie/Desktop/C#/C# HelloCode/task45/obj/Debug/net6.0/task45.AssemblyInfo.cs
+/Users/maggie/Desktop/C#/C# HelloCode/task45/obj/Debug/net6.0/task45.csproj.CoreCompileInputs.cache
+/Users/maggie/Desktop/C#/C# HelloCode/task45/bin/Debug/net6.0/task45
+/Users/maggie/Desktop/C#/C# HelloCode/task45/bin/Debug/net6.0/task45.deps.json
+/Users/maggie/Desktop/C#/C# HelloCode/task45/bin/Debug/net6.0/task45.runtimeconfig.json
+/Users/maggie/Desktop/C#/C# HelloCode/task45/bin/Debug/net6.0/task45.dll
+/Users/maggie/Desktop/C#/C# HelloCode/task45/bin/Debug/net6.0/ref/task45.dll
+/Users/maggie/Desktop/C#/C# HelloCode/task45/bin/Debug/net6.0/task45.pdb
+/Users/maggie/Desktop/C#/C# HelloCode/task45/obj/Debug/net6.0/task45.dll
+/Users/maggie/Desktop/C#/C# HelloCode/task45/obj/Debug/net6.0/ref/task45.dll
+/Users/maggie/Desktop/C#/C# HelloCode/task45/obj/Debug/net6.0/task45.pdb
+/Users/maggie/Desktop/C#/C# HelloCode/task45/obj/Debug/net6.0/task45.genruntimeconfig.cache
