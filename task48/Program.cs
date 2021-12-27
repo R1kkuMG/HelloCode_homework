@@ -9,7 +9,7 @@ void PrintArray(int[,] matrix)
         {
             Console.Write($" {matrix[i, j]} ");
         }
-    Console.WriteLine();
+        Console.WriteLine();
     }
 }
 
