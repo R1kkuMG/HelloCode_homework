@@ -39,10 +39,14 @@ void OppositeArray(int[,] matrix)
     } 
 }
 
-int[,] matrix = new int [3,3];
-PrintArray(matrix);
-FillArray(matrix);
-Console.WriteLine();
-PrintArray(matrix);
-Console.WriteLine();
-OppositeArray(matrix);
+void Demo()
+{
+    int[,] matrix = new int[3, 3];
+    FillArray(matrix);
+    Console.WriteLine();
+    PrintArray(matrix);
+    Console.WriteLine();
+    OppositeArray(matrix);
+}
+
+Demo();
