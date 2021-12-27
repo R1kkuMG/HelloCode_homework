@@ -7,8 +7,9 @@ void PrintArray(int[,] matrix)
     {
         for (int j = 0; j < matrix.GetLength(1); j++)
         {
-            Console.Write($"{matrix[i, j]}");
+            Console.Write($" {matrix[i, j]} ");
         }
+    Console.WriteLine();
     }
 }
 
@@ -23,8 +24,13 @@ void FillArray(int[,] matrix)
     }
 }
 
-int[,] matrix = new int [4,3];
-PrintArray(matrix);
-FillArray(matrix);
-Console.WriteLine();
-PrintArray(matrix);
+void Demo()
+{
+    int[,] matrix = new int [3, 4];
+    PrintArray(matrix);//     
+    FillArray(matrix);
+    Console.WriteLine();
+    PrintArray(matrix);
+}
+
+Demo();
