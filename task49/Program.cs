@@ -8,8 +8,9 @@ void PrintArray(double[,] matrix)
     {
         for (int j = 0; j < matrix.GetLength(1); j++)
         {
-            Console.Write($"{matrix[i, j] / 2d}"); // TO DO
+            Console.Write($"{ matrix[i, j] / 2d }"); // TO DO
         }
+        Console.WriteLine();
     }
 }
 
@@ -24,7 +25,7 @@ void FillArray(double[,] matrix)
     }
 }
 
-double[,] matrix = new double [4,3];
+double[,] matrix = new double [4,4];
 PrintArray(matrix);
 FillArray(matrix);
 Console.WriteLine();
