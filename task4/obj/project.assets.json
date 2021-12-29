@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/maggie/Desktop/C#/семинар 1/HelloCode-1/task4/task4.csproj",
+      "projectUniqueName": "/Users/maggie/Desktop/C#/C# HelloCode/task4/task4.csproj",
       "projectName": "task4",
-      "projectPath": "/Users/maggie/Desktop/C#/семинар 1/HelloCode-1/task4/task4.csproj",
+      "projectPath": "/Users/maggie/Desktop/C#/C# HelloCode/task4/task4.csproj",
       "packagesPath": "/Users/maggie/.nuget/packages/",
-      "outputPath": "/Users/maggie/Desktop/C#/семинар 1/HelloCode-1/task4/obj/",
+      "outputPath": "/Users/maggie/Desktop/C#/C# HelloCode/task4/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/maggie/.nuget/NuGet/NuGet.Config"
