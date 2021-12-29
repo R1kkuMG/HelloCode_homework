@@ -1,4 +1,8 @@
-﻿int a = new Random().Next(1, 10); // 1 2 3 4 ... 9
+﻿// 6. Выяснить является ли число чётным
+
+Console.Clear();
+
+int a = new Random().Next(1, 10); // 1 2 3 4 ... 9
 Console.WriteLine(a);
 
 if(a % 2 == 0)
