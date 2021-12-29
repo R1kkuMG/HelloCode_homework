@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gfCI1tyl+D2hghKhwd5tcKZ1K3wyFrwLxrAVrKU7/oY+0yD0PMpAwG+Skk09pSg1sSuoba8oIQJdHoJ7rRV3qQ==",
+  "dgSpecHash": "e68+YK+JQiDr55I8re26qVm2Dj5Dt2X6US3TP9HQa2IPi58u7UoUB6KaXaRv1hFfbVB32ZstZ0ID9aG6ENmfIw==",
   "success": true,
-  "projectFilePath": "/Users/maggie/Desktop/C#/семинар 1/HelloCode-1/task14/task14.csproj",
+  "projectFilePath": "/Users/maggie/Desktop/C#/C# HelloCode/task14/task14.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
