@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/maggie/Desktop/C#/семинар 1/HelloCode-1/task2/task2.csproj": {}
+    "/Users/maggie/Desktop/C#/C# HelloCode/task2/task2.csproj": {}
   },
   "projects": {
-    "/Users/maggie/Desktop/C#/семинар 1/HelloCode-1/task2/task2.csproj": {
+    "/Users/maggie/Desktop/C#/C# HelloCode/task2/task2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/maggie/Desktop/C#/семинар 1/HelloCode-1/task2/task2.csproj",
+        "projectUniqueName": "/Users/maggie/Desktop/C#/C# HelloCode/task2/task2.csproj",
         "projectName": "task2",
-        "projectPath": "/Users/maggie/Desktop/C#/семинар 1/HelloCode-1/task2/task2.csproj",
+        "projectPath": "/Users/maggie/Desktop/C#/C# HelloCode/task2/task2.csproj",
         "packagesPath": "/Users/maggie/.nuget/packages/",
-        "outputPath": "/Users/maggie/Desktop/C#/семинар 1/HelloCode-1/task2/obj/",
+        "outputPath": "/Users/maggie/Desktop/C#/C# HelloCode/task2/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/maggie/.nuget/NuGet/NuGet.Config"
