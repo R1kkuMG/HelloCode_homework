@@ -1,4 +1,6 @@
-﻿// Показать числа от -N до N
+﻿// 7. Показать числа от -N до N
+
+Console.Clear();
 
 Console.Write("Введите целое число: ");
 int num = int.Parse(Console.ReadLine());
