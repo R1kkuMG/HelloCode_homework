@@ -1,13 +1,22 @@
-﻿int numberA = new Random().Next(1, 10); // 1 2 3 4 ... 9
-Console.WriteLine(numberA);
-int numberB = new Random().Next(1, 10);
-Console.WriteLine(numberB);
+﻿// 1. По двум заданным числам проверять является ли первое квадратом второго
 
-if(numberA == numberB * numberB)
+Console.Clear();
+
+void Sqr()
 {
-    Console.WriteLine("Yes");
+    int numberA = new Random().Next(1, 10); // 1 2 3 4 ... 9
+    Console.WriteLine(numberA);
+    int numberB = new Random().Next(1, 10);
+    Console.WriteLine(numberB);
+
+    if (numberA == numberB * numberB)
+    {
+        Console.WriteLine("Yes");
+    }
+    else
+    {
+        Console.Write("No");
+    }
 }
-else
-{
-    Console.Write("No");
-}
+
+Sqr();
