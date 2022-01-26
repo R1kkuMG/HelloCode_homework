@@ -26,8 +26,7 @@ void FillArray(int[,] matrix)
 
 void Demo()
 {
-    int[,] matrix = new int [3, 4];
-    PrintArray(matrix);//     
+    int[,] matrix = new int [3, 4];     
     FillArray(matrix);
     Console.WriteLine();
     PrintArray(matrix);
