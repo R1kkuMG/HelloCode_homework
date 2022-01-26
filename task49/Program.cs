@@ -1,4 +1,4 @@
-﻿// Показать двумерный массив размером m×n заполненный вещественными числами
+﻿// 49. Показать двумерный массив размером m×n заполненный вещественными числами
 
 Console.Clear();
 
@@ -8,7 +8,7 @@ void PrintArray(double[,] matrix)
     {
         for (int j = 0; j < matrix.GetLength(1); j++)
         {
-            Console.Write($"{ matrix[i, j] / 2d }"); // TO DO
+            Console.Write($"{ matrix[i, j] / 2d } "); // TO DO
         }
         Console.WriteLine();
     }
@@ -25,7 +25,7 @@ void FillArray(double[,] matrix)
     }
 }
 
-double[,] matrix = new double [4,4];
+double[,] matrix = new double [2,2];
 PrintArray(matrix);
 FillArray(matrix);
 Console.WriteLine();
