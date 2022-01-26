@@ -28,3 +28,18 @@
 /Users/maggie/Desktop/C#/C# HelloCode/task10/obj/Debug/net6.0/ref/task10.dll
 /Users/maggie/Desktop/C#/C# HelloCode/task10/obj/Debug/net6.0/task10.pdb
 /Users/maggie/Desktop/C#/C# HelloCode/task10/obj/Debug/net6.0/task10.genruntimeconfig.cache
+D:\it\HelloCode_homework\task10\bin\Debug\net6.0\task10.exe
+D:\it\HelloCode_homework\task10\bin\Debug\net6.0\task10.deps.json
+D:\it\HelloCode_homework\task10\bin\Debug\net6.0\task10.runtimeconfig.json
+D:\it\HelloCode_homework\task10\bin\Debug\net6.0\task10.dll
+D:\it\HelloCode_homework\task10\bin\Debug\net6.0\ref\task10.dll
+D:\it\HelloCode_homework\task10\bin\Debug\net6.0\task10.pdb
+D:\it\HelloCode_homework\task10\obj\Debug\net6.0\task10.csproj.AssemblyReference.cache
+D:\it\HelloCode_homework\task10\obj\Debug\net6.0\task10.GeneratedMSBuildEditorConfig.editorconfig
+D:\it\HelloCode_homework\task10\obj\Debug\net6.0\task10.AssemblyInfoInputs.cache
+D:\it\HelloCode_homework\task10\obj\Debug\net6.0\task10.AssemblyInfo.cs
+D:\it\HelloCode_homework\task10\obj\Debug\net6.0\task10.csproj.CoreCompileInputs.cache
+D:\it\HelloCode_homework\task10\obj\Debug\net6.0\task10.dll
+D:\it\HelloCode_homework\task10\obj\Debug\net6.0\ref\task10.dll
+D:\it\HelloCode_homework\task10\obj\Debug\net6.0\task10.pdb
+D:\it\HelloCode_homework\task10\obj\Debug\net6.0\task10.genruntimeconfig.cache

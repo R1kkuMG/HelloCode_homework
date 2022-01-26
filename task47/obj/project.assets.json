@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "/Users/maggie/.nuget/packages/": {}
+    "C:\\Users\\Андрей\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/maggie/Desktop/C#/C# HelloCode/task47/task47.csproj",
+      "projectUniqueName": "D:\\it\\HelloCode_homework\\task47\\task47.csproj",
       "projectName": "task47",
-      "projectPath": "/Users/maggie/Desktop/C#/C# HelloCode/task47/task47.csproj",
-      "packagesPath": "/Users/maggie/.nuget/packages/",
-      "outputPath": "/Users/maggie/Desktop/C#/C# HelloCode/task47/obj/",
+      "projectPath": "D:\\it\\HelloCode_homework\\task47\\task47.csproj",
+      "packagesPath": "C:\\Users\\Андрей\\.nuget\\packages\\",
+      "outputPath": "D:\\it\\HelloCode_homework\\task47\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/maggie/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\Андрей\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -58,7 +58,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.100/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }
