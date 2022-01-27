@@ -2,7 +2,7 @@
 
 Console.Clear();
 
-void FillArray(int[,] array)
+void FillArray(int[,] array) // заполняем двумерный массив рандомными числами
 {
     for (int i = 0; i < array.GetLength(0); i++)
     {
@@ -16,14 +16,14 @@ void FillArray(int[,] array)
 }
 
 Console.Write("Введите число от 1 до 9: ");
-int value = int.Parse(Console.ReadLine());
+int value = int.Parse(Console.ReadLine()); // переменная int, вееденная пользователем
 Console.WriteLine();
 
-int FindArray(int[,] array)
+int FindArray(int[,] array) // ищем индексы числа, введенного пользователем
 {
     int row = 0;
     int column = 0;
-    int count = 0;
+    int count = 0;  // добавили счетчик для ситуации, в которой не выполняется нужное условие (элемент отсутствует в массиве)
     for (int i = 0; i < array.GetLength(0); i++)
     {
         for (int j = 0; j < array.GetLength(1); j++)
@@ -38,7 +38,8 @@ int FindArray(int[,] array)
             }
         }
     }
-    if (count == 0)
+    if (count == 0) // условие, которое выполняет команду вывода сообщения об отсутствии элемента в массиве, 
+                    // счетчик нужен для того, чтобы итерация не зацикливалась
         {
             Console.Write($"Число {value} отсутствует в массиве.");
         } 
